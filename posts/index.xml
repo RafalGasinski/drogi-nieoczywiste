@@ -14,5 +14,12 @@
       <guid>http://rafalgasinski.github.io/drogi-nieoczywiste/posts/test/</guid>
       <description>&lt;p&gt;Test&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Test 2</title>
+      <link>http://rafalgasinski.github.io/drogi-nieoczywiste/posts/test-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://rafalgasinski.github.io/drogi-nieoczywiste/posts/test-2/</guid>
+      <description>&lt;p&gt;Testowy post&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
