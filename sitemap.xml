@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/test-2/</loc>
+    <loc>https://www.drogi-nieoczywiste.pl/posts/test-2/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/test/</loc>
+    <loc>https://www.drogi-nieoczywiste.pl/posts/test/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/28052025-pnocne-bakany-cz2/</loc>
+    <loc>https://www.drogi-nieoczywiste.pl/posts/28052025-pnocne-bakany-cz2/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/28052025-pnocne-bakany-cz3/</loc>
+    <loc>https://www.drogi-nieoczywiste.pl/posts/28052025-pnocne-bakany-cz3/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/28052025-pnocne-bakany-cz4/</loc>
+    <loc>https://www.drogi-nieoczywiste.pl/posts/28052025-pnocne-bakany-cz4/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://www.drogi-nieoczywiste.pl/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://www.drogi-nieoczywiste.pl/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://www.drogi-nieoczywiste.pl/posts/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://www.drogi-nieoczywiste.pl/tags/</loc>
   </url>
 </urlset>
